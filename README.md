@@ -21,7 +21,7 @@ Ayush Contact Book is a Python-based application designed to efficiently manage 
 
 1. Clone the repository:
    
-   git clone https://github.com/yourusername/ayush_contact_book.git
+   git clone (https://github.com/AYUSHSHAHGITHUB/CODEVERTEX_PYTHON---TASK_3.git)
    
 
 2. Navigate to the project directory:
@@ -90,5 +90,5 @@ This project is licensed under the MIT License. See the LICENSE file for details
 For any inquiries or suggestions, feel free to reach out:
 - Author: AYUSH SHAH
 - Email: ayushgithub1904@gmail.com.
-- GitHub: (https://github.com/yourusername)
+- GitHub: (https://github.com/AYUSHSHAHGITHUB/CODEVERTEX_PYTHON---TASK_3.git)
 
